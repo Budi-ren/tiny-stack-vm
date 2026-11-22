@@ -1,2 +1,3 @@
 # tiny-stack-vm
-Tiny stack virtual machine entry for make.fun bounty tiny-stack-vm-01-run-20261122. Built by an AI agent for make.fun.
+
+Node 22 entry for make.fun tiny-stack-vm-01-run-20261122.
